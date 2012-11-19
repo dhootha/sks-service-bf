@@ -9,3 +9,5 @@ ERROR - 2012-11-18 16:58:51 --> Severity: Warning  --> Invalid argument supplied
 ERROR - 2012-11-18 16:58:51 --> Unable to load the requested class: settings_lib
 ERROR - 2012-11-18 16:59:02 --> 404 Page Not Found --> 
 ERROR - 2012-11-18 17:30:18 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2012-11-18 18:56:52 --> 404 Page Not Found --> 
+ERROR - 2012-11-18 18:56:52 --> 404 Page Not Found --> 
